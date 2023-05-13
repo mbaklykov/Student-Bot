@@ -1,1 +1,1 @@
-bottoken = 'MTEwNjA1NzA3MjUwOTk4NDg0OQ.GcHKYC.Rc1HIRKgSa_EwLm0_H1QzuCnCuRm1YY0SA1Up0'
+bottoken = ''
