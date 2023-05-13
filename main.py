@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 
 # import Bot Token
-from apikeys import *
+from apikeys import
 
 intents = discord.Intents.default()
 intents.members = True
